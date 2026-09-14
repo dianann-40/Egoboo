@@ -211,3 +211,6 @@ Egoboo is released as a complete free version, offering all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Experience the excitement of **Egoboo** today! Download now and embark on your adventure in the dungeons!
+
+---
+**Last updated:** 2026-09-14 23:40:38 UTC
