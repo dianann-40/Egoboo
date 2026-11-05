@@ -213,4 +213,4 @@ Egoboo is released as a complete free version, offering all features and updates
 Experience the excitement of **Egoboo** today! Download now and embark on your adventure in the dungeons!
 
 ---
-**Last updated:** 2026-11-04 18:24:31 UTC
+**Last updated:** 2026-11-05 00:05:34 UTC
